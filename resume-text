@@ -1,0 +1,90 @@
+Aleksandar Micovic
+aleks.micovic@gmail.com
+http://aleks.rs
+
+
+Work
+====
+
+July 2012 -- Present
+Software Developer at Good World Games Ltd.
+------------------------------------------------------------------
+Worked on all aspects of the stack from the front-end to the
+Python-based back-end. I also wrote critical gameplay components,
+and ported our iOS game to Android as well.
+
+May 2010 -- August 2011
+Lead Software Developer at CPCS Trans Ltd.
+------------------------------------------------------------------
+Rewrote and then managed the internal systems used to handle
+business intelligence. I also worked as a system administrator
+maintaining, hardening, and scaling GNU/Linux servers.
+
+September 2009 -- May 2012
+Teaching Assisstant at the University of Toronto
+------------------------------------------------------------------
+I gave bite-sized presentations at the beginning of every
+tutorial, in addition to running them. Other responsibilities
+included marking tests and helping students.
+
+September 2008 -- March 2009
+Jr. Systems Administrator at the University of Toronto
+------------------------------------------------------------------
+Worked under a senior systems administrator to maintain the labs
+and software in our department.
+
+
+Technical
+=========
+
+Languages
+---------
+I am well-versed in the paradigms of object oriented, and
+functional programming languages. I have worked extensively with
+relational databases and key-value stores like MongoDB. I use C
+and Python on a daily basis and prefer the latter for personal
+projects. I am also familiar with scripting, and prefer BASH. 
+
+Web
+---
+I am experienced with XHTML, Javascript, CSS, PHP, and AJAX. I 
+am also proficient with MVC style web-frameworks like Django and
+libraries like jQuery.
+
+Other
+-----
+Algorithm design and analysis, operating system concepts,
+low-level programming, security, GNU/Linux system administration
+and version control (Git \& SVN) are all a part of my repertoir.
+
+
+Education
+=========
+
+Program
+-------
+Computer Science Specialist Degree at the University of Toronto.
+
+Highlights
+----------
+- Implemented major page faults as part of a virtual memory 
+  system in OS/161.
+- Created a complete AJAX chat suite.
+- Researched and created a method to hide information in sound. 
+  By the end, I was able to fit all of War and Peace by Leo 
+  Tolstoy in a 5 minute song without audible degredation.
+- Implemented a router and the transport layer for a simplified
+  version of TCP.
+- Developed a base for a physics-enabled sandbox using only web
+  technologies like WebSockets, and HTML5.
+- Created a video game based on laser chess using OpenGL, SDL 
+  and C++.
+
+
+Some Interests
+==============
+- Reading and creative writing
+- Japanese
+- Music (I play the guitar, drums and ocarina)
+- The Free Software Movement
+- Travelling
